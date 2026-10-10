@@ -3,7 +3,7 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/shoaib_1229) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shoaib_1229) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohd-shoaib-96ba76274) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:2k22.cse.2213397@gmail.com) 
 
 # 💫 Hi 👋, I'm Mohd Shoaib
-**A passionate Python Developer || SQL Enthusiast || AI/ML Explorer from India 🇮🇳**
+**A passionate Data Analyst || Python Developer || SQL & Power BI Enthusiast from India 🇮🇳**
 
 Email Me 👉 ✉️ **2k22.cse.2213397@gmail.com** For Collaboration/Projects or Anything Else. 😊
 
